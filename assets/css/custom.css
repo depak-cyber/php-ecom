@@ -1,0 +1,19 @@
+*{
+    font-family: 'Ubuntu', sans-serif;
+
+}
+a{
+   text-decoration: none;
+    
+}
+.underline{
+    height:500px;
+    width:150px;
+    background-color:blueviolet;
+    border-radius:20px;
+
+
+}
+.bg-f2f2f2{
+    background-color: #f2f2f2;
+}
